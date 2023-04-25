@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CTC1" />
+        <module name="StoreFrontConsole" />
+        <module name="GTC1" />
+        <module name="Discovery-Server" />
+        <module name="QTC1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CTC1" target="20" />
+      <module name="Discovery-Server" target="20" />
+      <module name="GTC1" target="20" />
+      <module name="QTC1" target="20" />
+      <module name="StoreFrontConsole" target="20" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="CTC1" options="-parameters" />
+      <module name="Discovery-Server" options="-parameters" />
+      <module name="GTC1" options="-parameters" />
+      <module name="QTC1" options="-parameters" />
+      <module name="StoreFrontConsole" options="-parameters" />
+    </option>
+  </component>
+</project>

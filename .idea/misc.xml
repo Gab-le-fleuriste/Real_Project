@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../CTC1/pom.xml" />
+        <option value="$PROJECT_DIR$/../QTC1/pom.xml" />
+        <option value="$PROJECT_DIR$/../GTC1/pom.xml" />
+        <option value="$PROJECT_DIR$/Discovery-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/StoreFrontConsole/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
